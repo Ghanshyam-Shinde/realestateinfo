@@ -1,0 +1,112 @@
+{
+  "FlatInfo":[
+    {
+      "flatno": "101",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "102",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "103",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "104",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "105",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "106",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "107",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "108",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "109",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "1010",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "1011",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+    {
+      "flatno": "1012",
+      "status": "1",
+      "area": "3",
+      "flattype": "3",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21"
+    },
+  ]
+}
