@@ -2,59 +2,65 @@
   "FlatInfo":[
     {
       "flatno": "101",
-      "status": "1",
-      "area": "3",
-      "flattype": "3",
+      "availibility": "0",
+      "area": "100",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
+      "cost": "300",
+      "tower": "1",
+      "floor": "3",
+      "orientation": "E"
+    },
+    {
+      "flatno": "102",
+      "availibility": "1",
+      "area": "200",
+      "bedroomcount": "3",
+      "bathroomcount": "3",
+      "cost": "250",
+      "tower": "2",
+      "floor": "1",
+      "orientation": "W"
+    },
+    {
+      "flatno": "103",
+      "availibility": "2",
+      "area": "150",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
       "cost": "30000000",
       "tower": "1",
       "floor": "21",
       "orientation": "E"
     },
     {
-      "flatno": "102",
-      "status": "1",
-      "area": "3",
-      "flattype": "3",
-      "cost": "30000000",
-      "tower": "1",
-      "floor": "21",
-      "orientation": "W"
-    },
-    {
-      "flatno": "103",
-      "status": "1",
-      "area": "3",
-      "flattype": "3",
-      "cost": "30000000",
-      "tower": "1",
-      "floor": "21",
-      "orientation": "N"
-    },
-    {
       "flatno": "104",
-      "status": "1",
+      "availibility": "0",
       "area": "3",
-      "flattype": "3",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
       "cost": "30000000",
       "tower": "1",
       "floor": "21",
-      "orientation": "S"
+      "orientation": "E"
     },
     {
       "flatno": "105",
-      "status": "1",
+      "availibility": "2",
       "area": "3",
-      "flattype": "3",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
       "cost": "30000000",
       "tower": "1",
       "floor": "21",
-      "orientation": "W"
+      "orientation": "E"
     },
     {
       "flatno": "106",
-      "status": "1",
+      "availibility": "2",
       "area": "3",
-      "flattype": "3",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
       "cost": "30000000",
       "tower": "1",
       "floor": "21",
@@ -62,63 +68,47 @@
     },
     {
       "flatno": "107",
-      "status": "1",
+      "availibility": "1",
       "area": "3",
-      "flattype": "3",
-      "cost": "30000000",
-      "tower": "1",
-      "floor": "21",
-      "orientation": "W"
-    },
-    {
-      "flatno": "108",
-      "status": "1",
-      "area": "3",
-      "flattype": "3",
-      "cost": "30000000",
-      "tower": "1",
-      "floor": "21",
-      "orientation": "S"
-    },
-    {
-      "flatno": "109",
-      "status": "1",
-      "area": "3",
-      "flattype": "3",
-      "cost": "30000000",
-      "tower": "1",
-      "floor": "21",
-      "orientation": "S"
-    },
-    {
-      "flatno": "1010",
-      "status": "1",
-      "area": "3",
-      "flattype": "3",
-      "cost": "30000000",
-      "tower": "1",
-      "floor": "21",
-      "orientation": "S"
-    },
-    {
-      "flatno": "1011",
-      "status": "1",
-      "area": "3",
-      "flattype": "3",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
       "cost": "30000000",
       "tower": "1",
       "floor": "21",
       "orientation": "E"
     },
     {
-      "flatno": "1012",
-      "status": "1",
+      "flatno": "108",
+      "availibility": "1",
       "area": "3",
-      "flattype": "3",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
       "cost": "30000000",
       "tower": "1",
       "floor": "21",
-      "orientation": "W"
+      "orientation": "E"
     },
+    {
+      "flatno": "109",
+      "availibility": "0",
+      "area": "3",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21",
+      "orientation": "E"
+    },
+    {
+      "flatno": "1010",
+      "availibility": "0",
+      "area": "3",
+      "bedroomcount": "3",
+      "bathroomcount": "2",
+      "cost": "30000000",
+      "tower": "1",
+      "floor": "21",
+      "orientation": "E"
+    }
   ]
 }
