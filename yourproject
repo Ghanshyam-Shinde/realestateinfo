@@ -1,0 +1,68 @@
+{
+  "FlatInfo":[
+    {
+      "surface": 1200,
+      "price": 12,
+      "bedroomscount": 3,
+      "bathroomscount": 2,
+      "orientation": "N",
+      "availibility": "Sold",
+    },
+    {
+      "surface": 1200,
+      "price": 12,
+      "bedroomscount": 3,
+      "bathroomscount": 2,
+      "orientation": "N",
+      "availibility": "Sold",
+    },
+{
+      "surface": 1200,
+      "price": 12,
+      "bedroomscount": 3,
+      "bathroomscount": 2,
+      "orientation": "N",
+      "availibility": "Sold",
+    },
+{
+      "surface": 1200,
+      "price": 12,
+      "bedroomscount": 3,
+      "bathroomscount": 2,
+      "orientation": "N",
+      "availibility": "Sold",
+    },
+{
+      "surface": 1200,
+      "price": 12,
+      "bedroomscount": 3,
+      "bathroomscount": 2,
+      "orientation": "N",
+      "availibility": "Sold",
+    },
+{
+      "surface": 1200,
+      "price": 12,
+      "bedroomscount": 3,
+      "bathroomscount": 2,
+      "orientation": "N",
+      "availibility": "Sold",
+    },
+{
+      "surface": 1200,
+      "price": 12,
+      "bedroomscount": 3,
+      "bathroomscount": 2,
+      "orientation": "N",
+      "availibility": "Sold",
+    },
+{
+      "surface": 1200,
+      "price": 12,
+      "bedroomscount": 3,
+      "bathroomscount": 2,
+      "orientation": "N",
+      "availibility": "Sold",
+    }
+  ]
+}
