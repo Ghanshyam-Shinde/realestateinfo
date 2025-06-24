@@ -1,0 +1,114 @@
+{
+  "tiles": [
+    {
+      "id": "T-0097",
+      "image": "https://cdn.example.com/images/polished-marble.jpg",
+      "name": "Polished White Marble",
+      "material": "marble",
+      "usage": "indoor wall",
+      "attributes": {
+        "anti_stain": true,
+        "slip_resistance": "R10"
+      }
+    },
+    {
+      "id": "T-0098",
+      "image": "https://cdn.example.com/images/grey-slate.jpg",
+      "name": "Grey Slate",
+      "material": "slate",
+      "usage": "floor",
+      "attributes": {
+        "anti_stain": false,
+        "slip_resistance": "R12"
+      }
+    },
+    {
+      "id": "T-0099",
+      "image": "https://cdn.example.com/images/glossy-ceramic.jpg",
+      "name": "Glossy Ceramic White",
+      "material": "ceramic",
+      "usage": "bathroom wall",
+      "attributes": {
+        "anti_stain": true,
+        "slip_resistance": "R9"
+      }
+    },
+    {
+      "id": "T-0100",
+      "image": "https://cdn.example.com/images/matte-black.jpg",
+      "name": "Matte Black Granite",
+      "material": "granite",
+      "usage": "outdoor patio",
+      "attributes": {
+        "anti_stain": true,
+        "slip_resistance": "R13"
+      }
+    },
+    {
+      "id": "T-0101",
+      "image": "https://cdn.example.com/images/beige-travertine.jpg",
+      "name": "Beige Travertine",
+      "material": "travertine",
+      "usage": "indoor flooring",
+      "attributes": {
+        "anti_stain": false,
+        "slip_resistance": "R10"
+      }
+    },
+    {
+      "id": "T-0102",
+      "image": "https://cdn.example.com/images/blue-mosaic.jpg",
+      "name": "Blue Mosaic Pool Tile",
+      "material": "glass mosaic",
+      "usage": "swimming pool",
+      "attributes": {
+        "anti_stain": true,
+        "slip_resistance": "R11"
+      }
+    },
+    {
+      "id": "T-0103",
+      "image": "https://cdn.example.com/images/wood-look-porcelain.jpg",
+      "name": "Wood Look Porcelain",
+      "material": "porcelain",
+      "usage": "living room floor",
+      "attributes": {
+        "anti_stain": true,
+        "slip_resistance": "R10"
+      }
+    },
+    {
+      "id": "T-0104",
+      "image": "https://cdn.example.com/images/textured-concrete.jpg",
+      "name": "Textured Concrete Tile",
+      "material": "cement",
+      "usage": "garage floor",
+      "attributes": {
+        "anti_stain": false,
+        "slip_resistance": "R12"
+      }
+    },
+    {
+      "id": "T-0105",
+      "image": "https://cdn.example.com/images/polished-granite.jpg",
+      "name": "Polished Granite Black",
+      "material": "granite",
+      "usage": "kitchen counter",
+      "attributes": {
+        "anti_stain": true,
+        "slip_resistance": "R8"
+      }
+    },
+    {
+      "id": "T-0106",
+      "image": "https://cdn.example.com/images/white-pebble.jpg",
+      "name": "White Pebble Finish",
+      "material": "natural stone",
+      "usage": "spa area",
+      "attributes": {
+        "anti_stain": false,
+        "slip_resistance": "R13"
+      }
+    }
+  ]
+}
