@@ -1,113 +1,143 @@
 {
   "tiles": [
     {
-      "id": "T-0097",
-      "image": "https://drive.google.com/file/d/1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI/view",
+      "id": "T-1001",
+      "series": "MarbleX",
       "name": "Polished White Marble",
-      "material": "marble",
-      "usage": "indoor wall",
+      "size": "600x600 mm",
+      "price": 120.5,
+      "info": "Premium marble finish for indoor walls.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": true,
-        "slip_resistance": "R10"
+        "antislip": false,
+        "waterproof": true,
+        "heat_resistant": true
       }
     },
     {
-      "id": "T-0098",
-      "image": "https://cdn.example.com/images/grey-slate.jpg",
+      "id": "T-1002",
+      "series": "StoneEdge",
       "name": "Grey Slate",
-      "material": "slate",
-      "usage": "floor",
+      "size": "300x600 mm",
+      "price": 85.0,
+      "info": "Textured slate look ideal for floor surfaces.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": false,
-        "slip_resistance": "R12"
+        "antislip": true,
+        "waterproof": true,
+        "heat_resistant": false
       }
     },
     {
-      "id": "T-0099",
-      "image": "https://cdn.example.com/images/glossy-ceramic.jpg",
+      "id": "T-1003",
+      "series": "Ceramico",
       "name": "Glossy Ceramic White",
-      "material": "ceramic",
-      "usage": "bathroom wall",
+      "size": "300x300 mm",
+      "price": 65.0,
+      "info": "Glossy ceramic ideal for bathrooms and kitchens.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": true,
-        "slip_resistance": "R9"
+        "antislip": false,
+        "waterproof": true,
+        "heat_resistant": false
       }
     },
     {
-      "id": "T-0100",
-      "image": "https://cdn.example.com/images/matte-black.jpg",
+      "id": "T-1004",
+      "series": "GranitePro",
       "name": "Matte Black Granite",
-      "material": "granite",
-      "usage": "outdoor patio",
+      "size": "600x600 mm",
+      "price": 145.0,
+      "info": "Matte granite tile for patios and outdoor areas.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": true,
-        "slip_resistance": "R13"
+        "antislip": true,
+        "waterproof": true,
+        "heat_resistant": true
       }
     },
     {
-      "id": "T-0101",
-      "image": "https://cdn.example.com/images/beige-travertine.jpg",
+      "id": "T-1005",
+      "series": "NatureStone",
       "name": "Beige Travertine",
-      "material": "travertine",
-      "usage": "indoor flooring",
+      "size": "400x400 mm",
+      "price": 92.0,
+      "info": "Natural stone texture for classic interiors.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": false,
-        "slip_resistance": "R10"
+        "antislip": true,
+        "waterproof": false,
+        "heat_resistant": true
       }
     },
     {
-      "id": "T-0102",
-      "image": "https://cdn.example.com/images/blue-mosaic.jpg",
+      "id": "T-1006",
+      "series": "PoolGuard",
       "name": "Blue Mosaic Pool Tile",
-      "material": "glass mosaic",
-      "usage": "swimming pool",
+      "size": "50x50 mm",
+      "price": 110.0,
+      "info": "Glass mosaic tiles for pool linings.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": true,
-        "slip_resistance": "R11"
+        "antislip": true,
+        "waterproof": true,
+        "heat_resistant": false
       }
     },
     {
-      "id": "T-0103",
-      "image": "https://cdn.example.com/images/wood-look-porcelain.jpg",
+      "id": "T-1007",
+      "series": "WoodTouch",
       "name": "Wood Look Porcelain",
-      "material": "porcelain",
-      "usage": "living room floor",
+      "size": "200x1200 mm",
+      "price": 98.0,
+      "info": "Realistic wood finish with porcelain durability.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": true,
-        "slip_resistance": "R10"
+        "antislip": true,
+        "waterproof": true,
+        "heat_resistant": true
       }
     },
     {
-      "id": "T-0104",
-      "image": "https://cdn.example.com/images/textured-concrete.jpg",
+      "id": "T-1008",
+      "series": "UrbanCem",
       "name": "Textured Concrete Tile",
-      "material": "cement",
-      "usage": "garage floor",
+      "size": "600x600 mm",
+      "price": 88.0,
+      "info": "Industrial concrete look with durable finish.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": false,
-        "slip_resistance": "R12"
+        "antislip": true,
+        "waterproof": false,
+        "heat_resistant": true
       }
     },
     {
-      "id": "T-0105",
-      "image": "https://cdn.example.com/images/polished-granite.jpg",
+      "id": "T-1009",
+      "series": "GranitePro",
       "name": "Polished Granite Black",
-      "material": "granite",
-      "usage": "kitchen counter",
+      "size": "600x1200 mm",
+      "price": 155.0,
+      "info": "Premium polished granite ideal for kitchen surfaces.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": true,
-        "slip_resistance": "R8"
+        "antislip": false,
+        "waterproof": true,
+        "heat_resistant": true
       }
     },
     {
-      "id": "T-0106",
-      "image": "https://cdn.example.com/images/white-pebble.jpg",
+      "id": "T-1010",
+      "series": "StoneSpa",
       "name": "White Pebble Finish",
-      "material": "natural stone",
-      "usage": "spa area",
+      "size": "300x300 mm",
+      "price": 102.5,
+      "info": "Natural pebble finish tile perfect for spas and gardens.",
+      "image": "https://drive.google.com/uc?export=download&id=1fs5BqEHZlaVL065iJRBpV0OAjGZ_-WvI",
       "attributes": {
-        "anti_stain": false,
-        "slip_resistance": "R13"
+        "antislip": true,
+        "waterproof": false,
+        "heat_resistant": true
       }
     }
   ]
