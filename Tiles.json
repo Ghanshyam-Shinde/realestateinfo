@@ -30,5 +30,75 @@
       "price": "€21/m",
       "is_favourite": false
     },
+    {
+      "article_id": "41922H",
+      "series": "Amano",
+      "type": "Mosaic",
+      "dimensions": "2.5 x 2.5 cm",
+      "color": "light gray",
+      "image": "https://drive.usercontent.google.com/u/0/uc?id=1DYQ9NMWbgff-NE8rKXY4Xp_FprgJArw0&export=download",
+      "price": "€11/m",
+      "is_favourite": false
+    },
+    {
+      "article_id": "41926H",
+      "series": "Amano",
+      "type": "Mosaic",
+      "dimensions": "2.5 x 2.5 cm",
+      "color": "silk blue",
+      "image": "https://drive.usercontent.google.com/u/0/uc?id=1XZADlvbhdsoUf8LnFOHnFWNkrVV-vXn0&export=download",
+      "price": "€13/m",
+      "is_favourite": false
+    },
+    {
+      "article_id": "41929H",
+      "series": "Amano",
+      "type": "Mosaic",
+      "dimensions": "2.5 x 2.5 cm",
+      "color": "medium grey metallic",
+      "image": "https://drive.usercontent.google.com/u/0/uc?id=1tKMDeSbm36LgVATDNCgNfzUVaf01uH2d&export=download",
+      "price": "€21/m",
+      "is_favourite": false
+    },
+    {
+      "article_id": "41922H",
+      "series": "Amano",
+      "type": "Mosaic",
+      "dimensions": "2.5 x 2.5 cm",
+      "color": "light gray",
+      "image": "https://drive.usercontent.google.com/u/0/uc?id=1DYQ9NMWbgff-NE8rKXY4Xp_FprgJArw0&export=download",
+      "price": "€11/m",
+      "is_favourite": false
+    },
+    {
+      "article_id": "41926H",
+      "series": "Amano",
+      "type": "Mosaic",
+      "dimensions": "2.5 x 2.5 cm",
+      "color": "silk blue",
+      "image": "https://drive.usercontent.google.com/u/0/uc?id=1XZADlvbhdsoUf8LnFOHnFWNkrVV-vXn0&export=download",
+      "price": "€13/m",
+      "is_favourite": false
+    },
+    {
+      "article_id": "41929H",
+      "series": "Amano",
+      "type": "Mosaic",
+      "dimensions": "2.5 x 2.5 cm",
+      "color": "medium grey metallic",
+      "image": "https://drive.usercontent.google.com/u/0/uc?id=1tKMDeSbm36LgVATDNCgNfzUVaf01uH2d&export=download",
+      "price": "€21/m",
+      "is_favourite": false
+    },
+    {
+      "article_id": "41929H",
+      "series": "Amano",
+      "type": "Mosaic",
+      "dimensions": "2.5 x 2.5 cm",
+      "color": "medium grey metallic",
+      "image": "https://drive.usercontent.google.com/u/0/uc?id=1tKMDeSbm36LgVATDNCgNfzUVaf01uH2d&export=download",
+      "price": "€21/m",
+      "is_favourite": false
+    }
   ]
 }
