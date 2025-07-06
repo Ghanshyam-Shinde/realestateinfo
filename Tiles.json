@@ -1,104 +1,97 @@
 {
   "tiles": [
-    {
-      "article_id": "41922H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "light gray",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1DYQ9NMWbgff-NE8rKXY4Xp_FprgJArw0&export=download",
-      "price": "€11/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41926H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "silk blue",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1XZADlvbhdsoUf8LnFOHnFWNkrVV-vXn0&export=download",
-      "price": "€13/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41929H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "medium grey metallic",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1tKMDeSbm36LgVATDNCgNfzUVaf01uH2d&export=download",
-      "price": "€21/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41922H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "light gray",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1DYQ9NMWbgff-NE8rKXY4Xp_FprgJArw0&export=download",
-      "price": "€11/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41926H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "silk blue",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1XZADlvbhdsoUf8LnFOHnFWNkrVV-vXn0&export=download",
-      "price": "€13/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41929H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "medium grey metallic",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1tKMDeSbm36LgVATDNCgNfzUVaf01uH2d&export=download",
-      "price": "€21/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41922H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "light gray",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1DYQ9NMWbgff-NE8rKXY4Xp_FprgJArw0&export=download",
-      "price": "€11/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41926H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "silk blue",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1XZADlvbhdsoUf8LnFOHnFWNkrVV-vXn0&export=download",
-      "price": "€13/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41929H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "medium grey metallic",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1tKMDeSbm36LgVATDNCgNfzUVaf01uH2d&export=download",
-      "price": "€21/m",
-      "is_favourite": false
-    },
-    {
-      "article_id": "41929H",
-      "series": "Amano",
-      "type": "Mosaic",
-      "dimensions": "2.5 x 2.5 cm",
-      "color": "medium grey metallic",
-      "image": "https://drive.usercontent.google.com/u/0/uc?id=1tKMDeSbm36LgVATDNCgNfzUVaf01uH2d&export=download",
-      "price": "€21/m",
-      "is_favourite": false
-    }
+    [
+  {
+    "article_id": "41922H",
+    "series": "Amano",
+    "type": "Mosaic",
+    "dimensions": "2.5 x 2.5 cm",
+    "color": "light gray",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1DYQ9NMWbgff-NE8rKXY4Xp_FprgJArw0&export=download",
+    "price": "€11/m",
+    "is_favourite": false
+  },
+  {
+    "article_id": "41926H",
+    "series": "Amano",
+    "type": "Mosaic",
+    "dimensions": "2.5 x 2.5 cm",
+    "color": "silk blue",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1XZADlvbhdsoUf8LnFOHnFWNkrVV-vXn0&export=download",
+    "price": "€13/m",
+    "is_favourite": false
+  },
+  {
+    "article_id": "41929H",
+    "series": "Amano",
+    "type": "Mosaic",
+    "dimensions": "2.5 x 2.5 cm",
+    "color": "medium grey metallic",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1tKMDeSbm36LgVATDNCgNfzUVaf01uH2d&export=download",
+    "price": "€21/m",
+    "is_favourite": false
+  },
+  {
+    "article_id": "8803-B670HK",
+    "series": "Savona",
+    "type": "Wall/Floor Tile",
+    "dimensions": "60 x 120 cm",
+    "color": "Grey",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1AhcUGIbO48L93KNVHm9dxKb0FXKLupZV&export=download",
+    "price": "€1.3/m²",
+    "is_favourite": false
+  },
+  {
+    "article_id": "8804-B670HK",
+    "series": "Savona",
+    "type": "Wall/Floor Tile",
+    "dimensions": "60 x 120 cm",
+    "color": "Anthracite",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1s6n0dKoq66-9LCLwdGO2sQBPrT7sfdcJ&export=download",
+    "price": "€1.3/m²",
+    "is_favourite": false
+  },
+  {
+    "article_id": "8802-B670HK",
+    "series": "Savona",
+    "type": "Wall/Floor Tile",
+    "dimensions": "60 x 120 cm",
+    "color": "Brown",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1WPPtDKs4COzOODYZgExP-e45xH8-hw_V&export=download",
+    "price": "€1.3/m²",
+    "is_favourite": false
+  },
+  {
+    "article_id": "431494",
+    "series": "Alcina",
+    "type": "Wall/Floor Tile",
+    "dimensions": "60 x 60 cm",
+    "color": "Graphite",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1BS-Rput7hhg_VAQrmlAA7NYK26SzwObU&export=download",
+    "price": "€2.7/m²",
+    "is_favourite": false
+  },
+  {
+    "article_id": "431493",
+    "series": "Alcina",
+    "type": "Wall/Floor Tile",
+    "dimensions": "60 x 60 cm",
+    "color": "Basalt",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1h2Gju8hfsx1OJ06VZ8_dqnuzvyMJ2xn_&export=download",
+    "price": "€2.7/m²",
+    "is_favourite": false
+  },
+  {
+    "article_id": "431491",
+    "series": "Alcina",
+    "type": "Wall/Floor Tile",
+    "dimensions": "60 x 60 cm",
+    "color": "Clay Brown",
+    "image": "https://drive.usercontent.google.com/u/0/uc?id=1DaBbY1Rhgze1vCMEzoYTsKUszlcbn9eO&export=download",
+    "price": "€2.7/m²",
+    "is_favourite": false
+  }
+]
+
   ]
 }
