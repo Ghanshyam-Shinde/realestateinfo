@@ -6,7 +6,10 @@
     "type": "Mosaic",
     "dimensions": "2.5 x 2.5 cm",
     "color": "light gray",
-    "image": "https://drive.usercontent.google.com/u/0/uc?id=1DYQ9NMWbgff-NE8rKXY4Xp_FprgJArw0&export=download",
+    "basemap": "https://drive.usercontent.google.com/u/0/uc?id=1DYQ9NMWbgff-NE8rKXY4Xp_FprgJArw0&export=download",
+    "normalmap": "https://drive.usercontent.google.com/u/0/uc?id=1XHfO4XUwUd9E0d2kI4GGoHZNabeiL8ly&export=download",
+    "roughness": "https://drive.usercontent.google.com/u/0/uc?id=1hhkpq2Ouqub4KQudPvMoVW5tv6Z0Ugvk&export=download",
+
     "price": "€11/m",
     "is_favourite": false
   },
