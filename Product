@@ -1,0 +1,247 @@
+{
+  "tiles": [
+  {
+    "article_id": "8464-B200HK",
+    "series": "Quarzit",
+    "size": "30 x 60 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "white-grey",
+    "slip_resistant": "R11/B",
+    "image": "https://augmentworks.com/data/8464-B200HK.jpg"
+  },
+  {
+    "article_id": "8800-B600HK",
+    "series": "Savona",
+    "size": "60 x 60 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "lime",
+    "slip_resistant": "R10/A",
+    "image": "https://augmentworks.com/data/8800-B600HK.jpg"
+  },
+  {
+    "article_id": "8801-B600HK",
+    "series": "Savona",
+    "size": "60 x 60 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "beige",
+    "slip_resistant": "R10/A",
+    "image": "https://augmentworks.com/data/8801-B600HK.jpg"
+  },
+  {
+    "article_id": "8802-B600HK",
+    "series": "Savona",
+    "size": "60 x 60 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "brown",
+    "slip_resistant": "R10/A",
+    "image": "https://augmentworks.com/data/8802-B600HK.jpg"
+  },
+  {
+    "article_id": "8803-B600HK",
+    "series": "Savona",
+    "size": "60 x 60 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "grey",
+    "slip_resistant": "R10/A",
+    "image": "https://augmentworks.com/data/8803-B600HK.jpg"
+  },
+  {
+    "article_id": "8804-B600HK",
+    "series": "Savona",
+    "size": "60 x 60 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "anthracite",
+    "slip_resistant": "R10/A",
+    "image": "https://augmentworks.com/data/8804-B600HK.jpg"
+  },
+  {
+    "article_id": "41207H",
+    "series": "Fresh",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "light blue-mix",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/41207H.jpg"
+  },
+  {
+    "article_id": "41322H",
+    "series": "Fresh",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "caribbean blue mix",
+    "slip_resistant": "R10/B",
+    "image": "https://augmentworks.com/data/41322H.jpg"
+  },
+  {
+    "article_id": "41454H",
+    "series": "Fresh",
+    "size": "5 x 5 cm",
+    "area_of_use": "Mosaic",
+    "color": "warm grey mix",
+    "slip_resistant": "R10/B",
+    "image": "https://augmentworks.com/data/41454H.jpg"
+  },
+  {
+    "article_id": "41922H",
+    "series": "Amano",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "light gray",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/41922H.jpg"
+  },
+  {
+    "article_id": "41925H",
+    "series": "Amano",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "ice blue",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/41925H.jpg"
+  },
+  {
+    "article_id": "41926H",
+    "series": "Amano",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "silk blue",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/41926H.jpg"
+  },
+  {
+    "article_id": "41927H",
+    "series": "Amano",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "pure blue",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/41927H.jpg"
+  },
+  {
+    "article_id": "41929H",
+    "series": "Amano",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "medium grey metallic-mix",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/41929H.jpg"
+  },
+  {
+    "article_id": "052023",
+    "series": "Valley",
+    "size": "60 x 60 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "sand-beige",
+    "slip_resistant": "R10/A",
+    "image": "https://augmentworks.com/data/052023.jpg"
+  },
+  {
+    "article_id": "430411H",
+    "series": "Area Pro",
+    "size": "60 x 120 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "basalt",
+    "slip_resistant": "R11/B",
+    "image": "https://augmentworks.com/data/430411H.jpg"
+  },
+  {
+    "article_id": "430730H",
+    "series": "Ascona",
+    "size": "60 x 60 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "mud",
+    "slip_resistant": "R10/A",
+    "image": "https://augmentworks.com/data/430730H.jpg"
+  },
+  {
+    "article_id": "431114H",
+    "series": "Marble & More",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "labradorit blue",
+    "slip_resistant": "R10/B",
+    "image": "https://augmentworks.com/data/431114H.jpg"
+  },
+  {
+    "article_id": "431119H",
+    "series": "Marble & More",
+    "size": "2.5 x 2.5 cm",
+    "area_of_use": "Mosaic",
+    "color": "cielo",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/431119H.jpg"
+  },
+  {
+    "article_id": "552004-18120H",
+    "series": "Chroma",
+    "size": "12.5 x 25 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "dark azure",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/552004-18120H.jpg"
+  },
+  {
+    "article_id": "552006-18120H",
+    "series": "Chroma",
+    "size": "12.5 x 25 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "light blue",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/552006-18120H.jpg"
+  },
+  {
+    "article_id": "552012-42550HK",
+    "series": "Chroma",
+    "size": "25 x 50 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "dark turquoise",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/552012-42550HK.jpg"
+  },
+  {
+    "article_id": "552013-12020H",
+    "series": "Chroma",
+    "size": "12.5 x 12.5 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "active green",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/552013-12020H.jpg"
+  },
+  {
+    "article_id": "552015-18120H",
+    "series": "Chroma",
+    "size": "12.5 x 25 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "medium green",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/552015-18120H.jpg"
+  },
+  {
+    "article_id": "552027-18120H",
+    "series": "Chroma",
+    "size": "12.5 x 25 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "medium salmon",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/552027-18120H.jpg"
+  },
+  {
+    "article_id": "552029-12020H",
+    "series": "Chroma",
+    "size": "12.5 x 12.5 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "active oxide red",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/552029-12020H.jpg"
+  },
+  {
+    "article_id": "552040-12020H",
+    "series": "Chroma",
+    "size": "12.5 x 12.5 cm",
+    "area_of_use": "Floor/wall tiles",
+    "color": "dark sand grey",
+    "slip_resistant": null,
+    "image": "https://augmentworks.com/data/552040-12020H.jpg"
+  }
+]
+}
